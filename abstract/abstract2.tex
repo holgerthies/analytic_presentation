@@ -1,0 +1,73 @@
+\documentclass{article}
+\usepackage{a4}
+\usepackage[utf8]{inputenc}
+\usepackage{xspace}
+\usepackage{amsmath,amssymb}
+\newcommand{\DD}{\mathbb D}
+\newcommand{\RR}{\mathbb R}
+\DeclareMathOperator{\NN}{\mathbb N}
+\DeclareMathOperator{\C}{\mathcal C}
+\DeclareMathOperator{\laplace}{\Delta}
+\bibliographystyle{amsalpha}
+
+\newcommand{\p}{\ensuremath{\mathcal P}\xspace}
+\newcommand{\np}{\ensuremath{\mathcal{NP}}\xspace}
+\newcommand{\fp}{\ensuremath{\mathcal{FP}}\xspace}
+\newcommand{\sharpp}{\ensuremath{\# \mathcal{P}}\xspace}
+\newcommand{\cc}{\texttt{C++}\xspace}
+\newcommand{\irram}{\texttt{iRRAM}\xspace}
+\newcommand{\REAL}{\texttt{REAL}\xspace}
+
+\begin{document}
+\title{Analytic Functions in \irram\thanks{%
+Supported in part by \emph{JSPS Kakenhi} projects
+\texttt{23700009} and \texttt{24106002},
+by \emph{7th EU IRSES} project \texttt{294962},
+by \emph{DFG} project \texttt{Zi\,1009/4-1},
+and by \emph{DAAD}.}}
+\author{Akitoshi Kawamura$^1$, \quad Florian Steinberg$^2$, \quad Holger Thies$^{1,2}$ 
+\\
+$^1$ The University of Tokyo (JAPAN), \quad $^2$ TU Darmstadt (GERMANY)}
+\date{}
+\maketitle
+\noindent
+The \emph{Type-2 Theory of Effectivity} (TTE) provides a sound framework for
+investigating the computability of real numbers, sequences,
+functions, and operators. 
+While a power series with uniformly computable coefficient sequence 
+does give rise to a computable function on every fixed compact
+subset of the disc of convergence, the underlying algorithm must
+in addition to said sequence `know' certain additional 
+(integer) parameters of it \cite{Mueller95}.
+Real Computability Theory thus exhibits a canonical mixed real/integer 
+representation of power series as interface declaration of practical 
+implementations. In fact the \irram library conveniently realizes an
+abstract data type \REAL for imperative programming in \cc,
+internally as intervals of arbitrary precision
+but appearing to the user as primitive with sound
+(namely multivalued) overloaded semantics for tests/branches \cite{Mueller00}.
+Moreover, Real Complexity Theory shows
+that the usual operations on (real) analytic functions can
+be computed uniformly within time polynomial in the binary
+output precision $n$ plus the aforementioned integer parameters \cite{Kawamura2012}.
+This is as opposed to smooth (=infinitely often differentiable)
+functions where maximization has been shown to correspond to
+the \p--vs.--\np  Millennium Prize Problem 
+and integration even to \fp--vs--\sharpp \cite{MR666209,MR748898,MR1137517}.
+
+We present a prototype implementation of power series 
+and analytic functions on a fixed rectangular domain 
+as abstract `arrow' data type in \irram,
+supporting basic operations like evaluation,
+point wise addition and multiplication, composition,
+differentiation and integration. Building on that,
+we explore the practical potential for analytic 
+continuation by iterated evaluation/interpolation
+in exact real arithmetic. Our empirical evaluation
+compares practical with predicted running times and suggests
+a refinement to the above parametrized complexity analysis.
+
+\small
+
+\bibliography{bib}{}
+\end{document}

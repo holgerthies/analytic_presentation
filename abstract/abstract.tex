@@ -1,0 +1,28 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{xspace}
+
+\newcommand{\fp}{\ensuremath{\mathcal{FP}}}
+\newcommand{\sharpp}{\ensuremath{\# \mathcal{P}}}
+\newcommand{\cc}{\texttt{C++}\xspace}
+\newcommand{\irram}{\texttt{iRRAM}\xspace}
+
+\begin{document}
+
+	Analytic functions play a central role in analysis and have therefore also been investigated in Computable Analysis and Real Complexity Theory.
+	Many operators that are hard in the general case map polynomial time computable functions to polynomial time computable functions when restricted to analytic functions.
+	It can for example be shown, that the anti-derivative of every polynomial time computable function is polynomial time computable if and only if $\fp = \sharpp$ (Friedman).
+	The anti-derivative of a polynomial time computable analytic function, however, can be computed in polynomial time without further assumptions.
+
+	Analytic functions are represented by power series.
+	However, it is known that the evaluation of power series is not uniformly computable.
+	Therefore it is necessary to include additional information about the function in the representation.
+	A representation that makes many operators uniformly polynomial time computable is extending the series by two Integers that fulfill certain conditions.
+
+	Norbert Müller's \cc Framework \irram provides data types for error-free computations with real numbers \cite{Mueller00}.
+	A prototype for a data type for representing analytic functions in the above sense was implemented by Florian Steinberg.
+	The talk focuses on the task of implementing Analytic Continuation (i.e. expanding the domain of an analytic function) in \irram using this data type.
+	For this it is necessary to compute the Taylor-coefficients for a given function.
+
+\end{document}

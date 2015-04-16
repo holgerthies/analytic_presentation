@@ -1,0 +1,42 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{xspace}
+\usepackage{amsmath,amssymb}
+\newcommand{\DD}{\mathbb D}
+\newcommand{\RR}{\mathbb R}
+\DeclareMathOperator{\NN}{\mathbb N}
+\DeclareMathOperator{\C}{\mathcal C}
+\DeclareMathOperator{\laplace}{\Delta}
+\bibliographystyle{amsalpha}
+
+\newcommand{\p}{\ensuremath{\mathcal P}\xspace}
+\newcommand{\np}{\ensuremath{\mathcal{NP}}\xspace}
+\newcommand{\fp}{\ensuremath{\mathcal{FP}}\xspace}
+\newcommand{\sharpp}{\ensuremath{\# \mathcal{P}}\xspace}
+\newcommand{\cc}{\texttt{C++}\xspace}
+\newcommand{\irram}{\texttt{iRRAM}\xspace}
+
+\begin{document}
+\section*{Analytic Functions in \irram}
+	Real Computability Theory originates from Turing's famous 1936 paper \cite{zbMATH03025275}, was developed further in the 50's \cite{MR0089809,MR0105357} and is now an established foundation for algorithmic considerations about continuous structures.
+	Real Complexity Theory was devised and developed by Friedmann and Ko \cite{MR666209,MR1137517} and has widely been accepted as the correct notion of feasibility \cite{Weihrauch}.
+
+	It turned out that within this framework many basic operators on real functions preserve polynomial time computability if and only if inclusions of discrete complexity classes are non strict.
+	More explicitly: parametric maximization corresponds to $\p$ vs. $\np$ \cite{MR666209} and integration to the stronger $\fp$ vs. $\sharpp$ \cite{MR748898}.
+	These results basically say that it is probably very difficult to find algorithms to carry out these basic operations on functions.
+	The same remains true if one restricts to smooth functions.
+	However, the situation improves drastically if only analytic functions are considered: Many operators that are hard in the general case become computable in polynomial time \cite{Kawamura2012}.
+
+	Analytic functions are represented by power series.
+	However, it is known that not even the evaluation of power series is uniformly computable.
+	A useful representation for analytic functions therefore has to include some additional information.
+	A representation that makes many operators uniformly polynomial time computable is extending the series by two Integers that fulfill certain conditions.
+
+	Norbert Müller's \cc library \irram provides an implementation of Real Complexity Theory and makes it accessible for numerical scientists \cite{Mueller00}.
+	A prototype of a data type representing analytic functions as power series in the above sense has been implemented by Florian Steinberg. 
+	In this talk we show how analytic functions can be implemented and used in \irram. 
+	An application we focus on is analytic continuation, i.e. expanding the domain of an analytic function. The domain is extended by computing a new Taylor series for the function around another point in the domain. An algorithm for computing Taylor series for a given analytic function was proposed by Norbert M\"uller \cite{Mueller95}. The data type was extended by this algorithm.  
+
+\bibliography{bib}{}
+\end{document}

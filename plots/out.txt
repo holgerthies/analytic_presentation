@@ -1,0 +1,190 @@
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 3: 0.0148569 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 3: 0.00928399 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 1, n= 3: 0.00992899 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 4: 0.00950499 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 4: 0.00906799 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 1, n= 4: 0.00958499 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 5: 0.00912299 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 5: 0.00928499 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 1, n= 5: 0.00836799 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 6: 0.00954199 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 6: 0.00876699 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 1, n= 6: 0.00938399 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 7: 0.00928599 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 7: 0.00824599 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 1, n= 7: 0.00988299 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 8: 0.00894599 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 8: 0.00911399 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 1, n= 8: 0.00886799 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 9: 0.00986999 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 9: 0.00875999 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 1, n= 9: 0.00941399 secs
+sin(0.3)=+.30E+0000+  0       i
+Evaluation of sin(x) with l = 1, n= 10: 0.607884 secs
+1/(1+x/2) (0.3))=+.98E+0000+  0       i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 10: 0.616159 secs
+log(x/2+1) (0.3))=+.70E-0001+  0       i
+Evaluation of log(x/2+1)(x) with l = 1, n= 10: 0.630985 secs
+sin(0.3)=+.296E+0000+  0        i
+Evaluation of sin(x) with l = 1, n= 11: 0.603926 secs
+1/(1+x/2) (0.3))=+.978E+0000+  0        i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 11: 0.61394 secs
+log(x/2+1) (0.3))=+.699E-0001+  0        i
+Evaluation of log(x/2+1)(x) with l = 1, n= 11: 0.631275 secs
+sin(0.3)=+.2955E+0000+  0         i
+Evaluation of sin(x) with l = 1, n= 12: 0.605559 secs
+1/(1+x/2) (0.3))=+.9780E+0000+  0         i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 12: 0.614825 secs
+log(x/2+1) (0.3))=+.6988E-0001+  0         i
+Evaluation of log(x/2+1)(x) with l = 1, n= 12: 0.634485 secs
+sin(0.3)=+.29552E+0000+  0          i
+Evaluation of sin(x) with l = 1, n= 13: 0.606596 secs
+1/(1+x/2) (0.3))=+.97800E+0000+  0          i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 13: 0.615982 secs
+log(x/2+1) (0.3))=+.69881E-0001+  0          i
+Evaluation of log(x/2+1)(x) with l = 1, n= 13: 0.630139 secs
+sin(0.3)=+.295520E+0000+  0           i
+Evaluation of sin(x) with l = 1, n= 14: 0.604657 secs
+1/(1+x/2) (0.3))=+.977995E+0000+  0           i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 14: 0.61576 secs
+log(x/2+1) (0.3))=+.698810E-0001+  0           i
+Evaluation of log(x/2+1)(x) with l = 1, n= 14: 0.630401 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 3: 4.48199 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 3: 4.52362 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 2, n= 3: 4.62832 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 4: 4.42489 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 4: 4.49606 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 2, n= 4: 4.64547 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 5: 4.41609 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 5: 4.50945 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 2, n= 5: 4.63973 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 6: 4.43837 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 6: 4.50863 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 2, n= 6: 4.63231 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 7: 4.4237 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 7: 4.50482 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 2, n= 7: 4.64138 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 8: 4.42147 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 8: 4.50086 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 2, n= 8: 4.64977 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 9: 4.42578 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 9: 4.49903 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 2, n= 9: 4.62882 secs
+sin(0.3)=+.30E+0000+  0       i
+Evaluation of sin(x) with l = 2, n= 10: 4.42563 secs
+1/(1+x/2) (0.3))=+.98E+0000+  0       i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 10: 4.51924 secs
+log(x/2+1) (0.3))=+.70E-0001+  0       i
+Evaluation of log(x/2+1)(x) with l = 2, n= 10: 4.65533 secs
+sin(0.3)=+.296E+0000+  0        i
+Evaluation of sin(x) with l = 2, n= 11: 29.5098 secs
+1/(1+x/2) (0.3))=+.978E+0000+  0        i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 11: 29.7606 secs
+log(x/2+1) (0.3))=+.699E-0001+  0        i
+Evaluation of log(x/2+1)(x) with l = 2, n= 11: 31.3782 secs
+sin(0.3)=+.2955E+0000+  0         i
+Evaluation of sin(x) with l = 2, n= 12: 29.509 secs
+1/(1+x/2) (0.3))=+.9780E+0000+  0         i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 12: 29.7829 secs
+log(x/2+1) (0.3))=+.6988E-0001+  0         i
+Evaluation of log(x/2+1)(x) with l = 2, n= 12: 31.3978 secs
+sin(0.3)=+.29552E+0000+  0          i
+Evaluation of sin(x) with l = 2, n= 13: 29.5211 secs
+1/(1+x/2) (0.3))=+.97800E+0000+  0          i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 13: 29.8065 secs
+log(x/2+1) (0.3))=+.69881E-0001+  0          i
+Evaluation of log(x/2+1)(x) with l = 2, n= 13: 31.3935 secs
+sin(0.3)=+.295520E+0000+  0           i
+Evaluation of sin(x) with l = 2, n= 14: 29.4936 secs
+1/(1+x/2) (0.3))=+.977995E+0000+  0           i
+Evaluation of 1/(1+x/2)(x) with l = 2, n= 14: 29.8445 secs
+log(x/2+1) (0.3))=+.698810E-0001+  0           i
+Evaluation of log(x/2+1)(x) with l = 2, n= 14: 31.3897 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 3: 139.045 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 3: 134.46 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 3: 150.855 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 4: 139.075 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 4: 134.566 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 4: 150.772 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 5: 139.496 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 5: 134.668 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 5: 150.95 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 6: 139.205 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 6: 134.606 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 6: 150.712 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 7: 139.257 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 7: 134.733 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 7: 150.572 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 8: 139.261 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 8: 134.553 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 8: 150.959 secs
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 9: 139.253 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 9: 134.865 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 9: 150.706 secs
+sin(0.3)=+.2955202E+0000+  0            i
+Evaluation of sin(x) with l = 1, n= 15: 0.610152 secs
+1/(1+x/2) (0.3))=+.9779951E+0000+  0            i
+Evaluation of 1/(1+x/2)(x) with l = 1, n= 15: 0.616989 secs

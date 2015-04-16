@@ -1,0 +1,7 @@
+sin(0.3)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 3, n= 6: 139.488 secs
+1/(1+x/2) (0.3))=+.1E+0001+  0      i
+Evaluation of 1/(1+x/2)(x) with l = 3, n= 6: 134.351 secs
+log(x/2+1) (0.3))=  0      +  0      i
+Evaluation of log(x/2+1)(x) with l = 3, n= 6: 150.806 secs
+sin(0.3)=

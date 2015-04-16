@@ -1,0 +1,35 @@
+\def\newblock{}
+\bibliographystyle{abbrv}
+\begin{thebibliography}{10}    
+
+
+  \beamertemplatearticlebibitems
+  \bibitem{8}
+	Ker-I Ko,
+    \newblock \emph{  On the Computational Complexity of Ordinary Differential Equationss}, Information and Control 58(1-3): 157-194 (1983)
+
+  \beamertemplatearticlebibitems
+  \bibitem{Mul95}
+	Norbert Th. M\"{u}ller,
+    \newblock \emph{ Constructive aspects of analytic functions}, Computability
+and Complexity in Analysis (Ker-I Ko and Klaus Weihrauch, eds.),
+Informatik Berichte, vol. 190, FernUniversit\"{a}t Hagen, September
+1995, CCA Workshop, Hagen, August 19-20, 1995, pp. 105-114.
+
+  \beamertemplatearticlebibitems
+  \bibitem{4}
+	Norbert Th. M\"{u}ller,
+    \newblock \emph{ Uniform Computational Complexity of Taylor Series}, ICALP 1987: 435-444
+
+  \beamertemplatearticlebibitems
+  \bibitem{5}
+	Norbert Th. M\"{u}ller,
+    \newblock \emph{ Polynomial Time Computation of Taylor Series}, Proc. 22 JAIIO - PANEL 1993
+
+
+	Florian Steinberg,
+    \newblock \emph{A type of Taylor series for the C++ library iRRAM for exact real arithmetic} (draft) last edited November 28, 2013
+  \beamertemplatearticlebibitems
+  \bibitem{10}
+
+  \end{thebibliography}

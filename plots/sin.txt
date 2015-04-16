@@ -1,0 +1,60 @@
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 3: 0.621128 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 4: 0.627306 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 5: 0.622108 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 6: 0.624099 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 7: 0.628598 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 8: 0.623241 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 1, n= 9: 0.620928 secs
+sin(+.30E+0000+  0       i)=+.30E+0000+  0       i
+Evaluation of sin(x) with l = 1, n= 10: 0.623067 secs
+sin(+.30E+0000+  0       i)=+.296E+0000+  0        i
+Evaluation of sin(x) with l = 1, n= 11: 0.623916 secs
+sin(+.30E+0000+  0       i)=+.2955E+0000+  0         i
+Evaluation of sin(x) with l = 1, n= 12: 0.622057 secs
+sin(+.30E+0000+  0       i)=+.29552E+0000+  0          i
+Evaluation of sin(x) with l = 1, n= 13: 0.62048 secs
+sin(+.30E+0000+  0       i)=+.295520E+0000+  0           i
+Evaluation of sin(x) with l = 1, n= 14: 0.61892 secs
+sin(+.30E+0000+  0       i)=+.2955202E+0000+  0            i
+Evaluation of sin(x) with l = 1, n= 15: 0.621728 secs
+sin(+.30E+0000+  0       i)=+.29552021E+0000+  0             i
+Evaluation of sin(x) with l = 1, n= 16: 0.62818 secs
+sin(+.30E+0000+  0       i)=+.295520207E+0000+  0              i
+Evaluation of sin(x) with l = 1, n= 17: 0.633966 secs
+sin(+.30E+0000+  0       i)=+.2955202067E+0000+  0               i
+Evaluation of sin(x) with l = 1, n= 18: 0.628878 secs
+sin(+.30E+0000+  0       i)=+.29552020666E+0000+  0                i
+Evaluation of sin(x) with l = 1, n= 19: 0.627335 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 3: 4.54927 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 4: 4.52835 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 5: 4.529 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 6: 4.5472 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 7: 4.52981 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 8: 4.534 secs
+sin(+.30E+0000+  0       i)=+.3E+0000+  0      i
+Evaluation of sin(x) with l = 2, n= 9: 4.55366 secs
+sin(+.30E+0000+  0       i)=+.30E+0000+  0       i
+Evaluation of sin(x) with l = 2, n= 10: 4.53108 secs
+sin(+.30E+0000+  0       i)=+.296E+0000+  0        i
+Evaluation of sin(x) with l = 2, n= 11: 4.52831 secs
+sin(+.30E+0000+  0       i)=+.2955E+0000+  0         i
+Evaluation of sin(x) with l = 2, n= 12: 29.9525 secs
+sin(+.30E+0000+  0       i)=+.29552E+0000+  0          i
+Evaluation of sin(x) with l = 2, n= 13: 30.0148 secs
+sin(+.30E+0000+  0       i)=+.295520E+0000+  0           i
+Evaluation of sin(x) with l = 2, n= 14: 29.9926 secs
+sin(+.30E+0000+  0       i)=+.2955202E+0000+  0            i
+Evaluation of sin(x) with l = 2, n= 15: 30.1063 secs
